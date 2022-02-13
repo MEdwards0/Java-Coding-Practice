@@ -1,7 +1,7 @@
-import uk.gov.dwp.training.animals.Animal;
-import uk.gov.dwp.training.animals.Cat;
-import uk.gov.dwp.training.animals.Dog;
-import uk.gov.dwp.training.animals.SmallDog;
+import training.animals.Animal;
+import training.animals.Cat;
+import training.animals.Dog;
+import training.animals.SmallDog;
 
 import java.util.*;
 
@@ -517,9 +517,9 @@ public class Application {
         }
 
 
-       // animals.forEach(animal -> {
-         //   animal.speak();
-       // });
+        // animals.forEach(animal -> {
+        //   animal.speak();
+        // });
 
 
     }

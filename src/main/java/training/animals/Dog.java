@@ -1,4 +1,4 @@
-package uk.gov.dwp.training.animals;
+package training.animals;
 
 public class Dog implements Animal {
 
