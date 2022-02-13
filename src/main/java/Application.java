@@ -2,6 +2,7 @@ import training.animals.Animal;
 import training.animals.Cat;
 import training.animals.Dog;
 import training.animals.SmallDog;
+// test
 
 import java.util.*;
 
